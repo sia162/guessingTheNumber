@@ -34,6 +34,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  margin-top: 9vh;
 }
 
 .left {
@@ -52,6 +53,7 @@ main {
   align-items: center;
   font-size: 3.5rem;
   font-family: 'Source Sans Pro', sans-serif;
+    row-gap: 4vh;
 }
 
 /* ELEMENTS STYLE */
